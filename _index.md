@@ -1,0 +1,491 @@
+---
+title: "Streaming Success"
+description: "Presentation about practices"
+theme: dracula
+---
+
+## Streaming Success
+ 
+<small>Optimizing DORA Metrics through Comprehensive Software Development Practices</small>
+
+---
+
+## about me?!
+
+---
+
+## Measuring of Success
+
+<aside class="notes">
+- You cant improve what you dont messure
+</aside>
+
+----
+
+## Goal
+
+<img src="/images/full_speed.jpg" class="r-stretch"/>
+
+<aside class="notes">
+- Spead & Quality
+- Product and Tech
+- They are not against each other
+</aside>
+
+----
+
+## DORA
+
+<img src="/images/dora.jpg" height="350"/>
+<img src="/images/accelerate.jpg" height="350"/>
+
+<aside class="notes">
+- Deployment Frequency—How often an organization successfully releases to production
+- Lead Time for Changes—The amount of time it takes a commit to get into production
+- Change Failure Rate—The percentage of deployments causing a failure in production
+- Time to Restore Service—How long it takes an organization to recover from a failure in production
+</aside>
+
+---
+
+## Presentation Order
+
+<section data-auto-animate style="height: 700px">
+    <div data-id="1" style="background: red; position: absolute; top: 250px; left: 10%; width: 200px; height: 60px;">Create</div>
+    <div data-id="2" style="background: green; position: absolute; top: 250px; left: 30%; width: 200px; height: 60px;">Transit</div>
+    <div data-id="3" style="background: magenta; position: absolute; top: 250px; left: 50%; width: 200px; height: 60px;">Run</div>
+    <div data-id="4" style="background: blue; position: absolute; top: 250px; left: 70%; width: 200px; height: 60px;">Mindset</div>
+</section>
+<section data-auto-animate style="height: 700px">
+    <div data-id="4" style="background: red; position: absolute; top: 250px; left: 10%; width: 200px; height: 60px;">Mindset</div>
+    <div data-id="3" style="background: green; position: absolute; top: 250px; left: 30%; width: 200px; height: 60px;">Run</div>
+    <div data-id="2" style="background: magenta; position: absolute; top: 250px; left: 50%; width: 200px; height: 60px;">Transit</div>
+    <div data-id="1" style="background: blue; position: absolute; top: 250px; left: 70%; width: 200px; height: 60px;">Create</div>
+</section>
+
+---
+
+## Mindset
+
+<img src="/images/positive_attitude.jpg" class="r-stretch" />
+
+---
+
+## You Build it you Run it
+
+<div class="container">
+    <div class="col">
+        <q>Create a DevOps Culture, </br> Not a Dev vs Ops</q>
+    </div>
+    <div class="col">
+        <img src="/images/run_it.jpg" />
+    </div>
+</div>
+
+<small> 🟢 All Metrics </small> 
+
+<aside class="notes">
+- Mention Normally developers are ask for delivery speed, and operations counterpart stability.
+- Devops culture is based on collaboration on running everything as a team of developers that at the same time observe operations.
+- Ops need to become a tool creator for teams, and not run their operations.
+- Accountability
+</aside>
+
+---
+
+## Scouting
+
+<div class="container">
+    <div class="col">
+        <q>Leave things better than they are now</q>
+    </div>
+    <div class="col">
+        <img src="/images/scout.jpeg" />
+    </div>
+</div>
+
+<small> 🟢 All Metrics </small> 
+
+<aside class="notes">
+- If you see code that can be done better, or some practices that can help delivery don't shy away because you are currently not doing it
+- If you don't do it nobody will
+</aside>
+
+---
+
+## Run
+
+<img src="/images/no_alarms.png" width="700"/>
+
+---
+
+## Alarms
+
+<q>Get notified when something happens</q>
+
+<small> 🟢 MTTR </small> 
+
+
+<aside class="notes">
+- Alarms allow you to be lazy. you don't need to jump or spend time and brain power if its not required.
+</aside>
+
+---
+
+## Metrics
+
+<q>Visualize state y status</q>
+
+<section data-auto-animate style="height: 700px">
+    <div data-id="1" style="background: green; position: absolute; top: 250px; left: 5%; width: 150px; height: 150px;"></div>
+    <div data-id="2" style="background: green; position: absolute; top: 250px; left: 30%; width: 150px; height: 150px;"></div>
+    <div data-id="3" style="background: green; position: absolute; top: 250px; left: 55%; width: 150px; height: 150px;"></div>
+    <div data-id="4" style="background: green; position: absolute; top: 250px; left: 80%; width: 150px; height: 150px;"></div>
+    <div data-id="5" style="background: green; position: absolute; top: 500px; left: 5%; width: 150px; height: 150px;"></div>
+    <div data-id="6" style="background: green; position: absolute; top: 500px; left: 30%; width: 150px; height: 150px;"></div>
+    <div data-id="7" style="background: green; position: absolute; top: 500px; left: 55%; width: 150px; height: 150px;"></div>
+    <div data-id="8" style="background: green; position: absolute; top: 500px; left: 80%; width: 150px; height: 150px;"></div>
+</section>
+<section data-auto-animate style="height: 700px">
+    <div data-id="1" style="background: green; position: absolute; top: 250px; left: 5%; width: 150px; height: 150px;"></div>
+    <div data-id="2" style="background: green; position: absolute; top: 250px; left: 30%; width: 150px; height: 150px;"></div>
+    <div data-id="3" style="background: green; position: absolute; top: 250px; left: 55%; width: 150px; height: 150px;"></div>
+    <div data-id="4" style="background: green; position: absolute; top: 250px; left: 80%; width: 150px; height: 150px;"></div>
+    <div data-id="5" style="background: red; position: absolute; top: 500px; left: 5%; width: 150px; height: 150px;"></div>
+    <div data-id="6" style="background: green; position: absolute; top: 500px; left: 30%; width: 150px; height: 150px;"></div>
+    <div data-id="7" style="background: green; position: absolute; top: 500px; left: 55%; width: 150px; height: 150px;"></div>
+    <div data-id="8" style="background: green; position: absolute; top: 500px; left: 80%; width: 150px; height: 150px;"></div>
+</section>
+<section data-auto-animate style="height: 700px">
+    <div data-id="1" style="background: green; position: absolute; top: 250px; left: 5%; width: 150px; height: 150px;"></div>
+    <div data-id="2" style="background: green; position: absolute; top: 250px; left: 30%; width: 150px; height: 150px;"></div>
+    <div data-id="3" style="background: green; position: absolute; top: 250px; left: 55%; width: 150px; height: 150px;"></div>
+    <div data-id="4" style="background: green; position: absolute; top: 250px; left: 80%; width: 150px; height: 150px;"></div>
+    <div data-id="5" style="background: green; position: absolute; top: 500px; left: 5%; width: 150px; height: 150px;"></div>
+    <div data-id="6" style="background: green; position: absolute; top: 500px; left: 30%; width: 150px; height: 150px;"></div>
+    <div data-id="7" style="background: green; position: absolute; top: 500px; left: 55%; width: 150px; height: 150px;"></div>
+    <div data-id="8" style="background: green; position: absolute; top: 500px; left: 80%; width: 150px; height: 150px;"></div>
+</section>
+<section data-auto-animate style="height: 700px">
+    <div data-id="1" style="background: green; position: absolute; top: 250px; left: 5%; width: 150px; height: 150px;"></div>
+    <div data-id="2" style="background: green; position: absolute; top: 250px; left: 30%; width: 150px; height: 150px;"></div>
+    <div data-id="3" style="background: blue; position: absolute; top: 250px; left: 55%; width: 150px; height: 150px;"></div>
+    <div data-id="4" style="background: yellow; position: absolute; top: 250px; left: 80%; width: 150px; height: 150px;"></div>
+    <div data-id="5" style="background: yellow; position: absolute; top: 500px; left: 5%; width: 150px; height: 150px;"></div>
+    <div data-id="6" style="background: yellow; position: absolute; top: 500px; left: 30%; width: 150px; height: 150px;"></div>
+    <div data-id="7" style="background: green; position: absolute; top: 500px; left: 55%; width: 150px; height: 150px;"></div>
+    <div data-id="8" style="background: green; position: absolute; top: 500px; left: 80%; width: 150px; height: 150px;"></div>
+</section>
+
+<small> 🟢 MTTR </small> 
+
+<aside class="notes">
+- When something happens dashboard can gide you to where might the problem be.
+- You need to learn how to read them and there are multiple types.
+</aside>
+
+---
+
+## Metrics
+
+<q>Visualize state y status</q>
+
+<section data-auto-animate style="height: 700px">
+    <div data-id="1" style="background: blue; position: absolute; bottom: 250px; left: 5%; width: 50px; height: 100px;"></div>
+    <div data-id="2" style="background: blue; position: absolute; bottom: 250px; left: 15%; width: 50px; height: 110px;"></div>
+    <div data-id="3" style="background: blue; position: absolute; bottom: 250px; left: 25%; width: 50px; height: 120px;"></div>
+    <div data-id="4" style="background: blue; position: absolute; bottom: 250px; left: 35%; width: 50px; height: 90px;"></div>
+    <div data-id="5" style="background: blue; position: absolute; bottom: 250px; left: 45%; width: 50px; height: 100px;"></div>
+    <div data-id="6" style="background: blue; position: absolute; bottom: 250px; left: 55%; width: 50px; height: 100px;"></div>
+    <div data-id="7" style="background: blue; position: absolute; bottom: 250px; left: 55%; width: 50px; height: 100px;"></div>
+    <div data-id="8" style="background: blue; position: absolute; bottom: 250px; left: 65%; width: 50px; height: 110px;"></div>
+    <div data-id="1" style="background: blue; position: absolute; bottom: 250px; left: 75%; width: 50px; height: 120px;"></div>
+    <div data-id="2" style="background: blue; position: absolute; bottom: 250px; left: 85%; width: 50px; height: 90px;"></div>
+    <div data-id="3" style="background: blue; position: absolute; bottom: 250px; left: 95%; width: 50px; height: 100px;"></div>
+    <div data-id="4" style="background: yellow; position: absolute; bottom: 50px; left: 5%; width: 50px; height: 100px;"></div>
+    <div data-id="5" style="background: yellow; position: absolute; bottom: 50px; left: 15%; width: 50px; height: 110px;"></div>
+    <div data-id="6" style="background: yellow; position: absolute; bottom: 50px; left: 25%; width: 50px; height: 120px;"></div>
+    <div data-id="7" style="background: yellow; position: absolute; bottom: 50px; left: 35%; width: 50px; height: 90px;"></div>
+    <div data-id="8" style="background: yellow; position: absolute; bottom: 50px; left: 45%; width: 50px; height: 100px;"></div>
+    <div data-id="1" style="background: yellow; position: absolute; bottom: 50px; left: 55%; width: 50px; height: 100px;"></div>
+    <div data-id="2" style="background: yellow; position: absolute; bottom: 50px; left: 55%; width: 50px; height: 100px;"></div>
+    <div data-id="3" style="background: yellow; position: absolute; bottom: 50px; left: 65%; width: 50px; height: 110px;"></div>
+    <div data-id="4" style="background: yellow; position: absolute; bottom: 50px; left: 75%; width: 50px; height: 120px;"></div>
+    <div data-id="5" style="background: yellow; position: absolute; bottom: 50px; left: 85%; width: 50px; height: 90px;"></div>
+    <div data-id="6" style="background: yellow; position: absolute; bottom: 50px; left: 95%; width: 50px; height: 100px;"></div>
+</section>
+
+<small> 🟢 MTTR </small> 
+
+<aside class="notes">
+- When something happens dashboard can gide you to where might the problem be.
+- You need to learn how to read them and there are multiple types.
+</aside>
+
+---
+
+## Logs
+
+<q>Understand what is happening</q>
+
+<small> 🟢 MTTR </small> 
+
+<aside class="notes">
+- When something happens dashboard can gide you to where might the problem be.
+- You need to learn how to read them and there are multiple types.
+</aside>
+
+---
+
+## UAT Environments
+
+<div class="container">
+    <div class="col">
+        <q>Sham Environments</q>
+    </div>
+    <div class="col">
+        <img src="/images/environments.jpeg" />
+    </div>
+</div>
+
+<small> 🟡 Change Failure Rate 🟡 Lead Time For Changes </small> 
+
+<aside class="notes">
+- Adds 'safeguards' and places to test that are different than the users environment.
+- They are difficult to maintain and align between different teams, it can lead to strange behavior.
+- Difficult to validate the end result.
+- They have a dollar cost attached.
+- Normally to solve an issue you need to go through all the environments, affecting the time to get solutions out.
+</aside>
+
+---
+
+## Single Environment
+
+<div class="container">
+    <div class="col">
+        <q>There is only 1 Reality <br/> Validate real things</q>
+    </div>
+    <div class="col">
+        <img src="/images/single_environment.jpeg" />
+    </div>
+</div>
+
+<small> 🟢 MTTR 🟢 Lead Time For Changes </small> 
+
+<aside class="notes">
+- It allows you to control what data is for test.
+- A single environment ensures continues alignment.
+- Smaller $ cost.
+- You get the real performance & behavior.
+- Achieve this is to have a flag across your system
+</aside>
+
+---
+
+## Transit
+
+<img src="/images/deploy_prod.jpg" class="r-stretch" />
+
+---
+
+## Continuous \<Fill Blank\>
+
+<div class="container">
+    <div class="col">
+        <q>It's a Journey</q>
+    </div>
+    <div class="col">
+        <img src="/images/continuous.png" style="background-color:white;" />
+    </div>
+</div>
+
+<small> 🟢 Deployment Frequency 🟢 Lead Time For Changes  🟢 MTTR </small> 
+
+<aside class="notes">
+- This are steps in a journey.
+- Continuous integration: It allows you to make sure you reproduce what you can do local somewhere else.
+- Continuous Delivery: Now that you reproduce things get them somewhere that can be tested.
+- Continuous Deployment: Deliver to your clients and not only to your team.
+- The more mature a team is in the journey the more confident they are of going the next definition
+</aside>
+
+---
+
+## Blue/Green Deployment
+
+<div class="container">
+    <div class="col">
+        <q></q>
+    </div>
+    <div class="col">
+        <img src="/images/blue_green.jpeg" />
+    </div>
+</div>
+
+<small> 🟢 Change Failure Rate </small> 
+
+<aside class="notes">
+- Blue green is not just a tool to minimize downtime, it can also be used as a tool to minimize failure rate.
+</aside>
+
+---
+
+## Canary Release 
+
+<div class="container">
+    <div class="col">
+        <q>Control where you release</q>
+    </div>
+    <div class="col">
+        <img src="/images/canary.jpeg" />
+    </div>
+</div>
+
+<small> 🟢 Change Failure Rate </small> 
+
+<aside class="notes">
+- Helps Minimize the risk of new features braking things.
+- Canary releases come from miners practices. If the canary dies the human might also die.
+- It gives you control at infrastructure level and is highly tide to your release capabilities.
+- you can probably have issues with multiple canaries with different combination of features. 
+</aside>
+
+---
+
+## Feature Toggles
+
+<div class="container">
+    <div class="col">
+        <q>Control how you release</q>
+    </div>
+    <div class="col">
+        <img src="/images/toggles.jpeg" />
+    </div>
+</div>
+
+<small> 🟢 Change Failure Rate 🟢 MTTR 🟢 Lead Time For Changes </small> 
+
+<aside class="notes">
+- The intention is similar to canary releases. Helps Minimize the risk of new features braking things.
+- It gives you control at code level. 
+- 2 types: release (on/off), context (Higher level of granularity user Ids, location, disk space...)
+- Allows you to disconnect from the release cycle. So you can react faster.
+- Enables other capabilities like A/B testing, and testing in prod.
+</aside>
+
+---
+
+## Creation
+
+<img src="/images/testing.jpg" class="r-stretch" />
+
+---
+
+## Trunk-Based Development
+
+<div class="container">
+    <div class="col">
+        <q>Single continuously evolving reality</q>
+    </div>
+    <div class="col">
+        <img src="/images/trunk.png" />
+    </div>
+</div>
+
+<small> 🟢 Change Failure Rate 🟢 Deployment Frequency </small> 
+
+<aside class="notes">
+- Long lived branches are difficult to merge.
+- When you merge sometimes you need to revalidate all the work.
+- On only branch force you to think about small units. 
+- You get the entire picture of your code all the time.
+- There are minimal merge conflicts.
+- I am not doing toggles can I do trunk based development. There are other ways like abstractions that are not connected that achieve the same goal.
+</aside>
+
+---
+
+## Everything As Code
+
+<div class="container">
+    <div class="col">
+        <q>Reproduce everything</q>
+    </div>
+    <div class="col">
+        <img src="/images/ascode.jpeg" />
+    </div>
+</div>
+
+<small> 🟢 Lead Time For Changes 🟢 MTTR </small> 
+
+<aside class="notes">
+- This helps to become a devops team and not just a devs and ops segmented group.
+- If you control all the parts you are building the capabilities into the solution. If not you are wrapping around things that might not fit.
+- It affects both stability and speed. Your infrastructure follows your code, and vice versa.
+</aside>
+
+---
+
+## Testing
+
+<div class="container">
+    <div class="col">
+        <q>Validate as soon as possible</q>
+    </div>
+    <div class="col">
+        <img src="/images/testing.jpeg" />
+    </div>
+</div>
+
+<small> 🟢 Change Failure Rate </small> 
+
+<aside class="notes">
+- Probably the most important of all.
+- Tests are not just manual or unit. There are tons of things that need to be validated.
+- All validations should be reproducible.
+- This is the main thing that brings stability as it brings quality into the codebase
+</aside>
+
+---
+
+## TDD
+
+<div class="container">
+    <div class="col">
+        <q></q>
+    </div>
+    <div class="col">
+        <img src="/images/tdd.png" />
+    </div>
+</div>
+
+<small> 🟢 Change Failure Rate 🟢 Lead Time For Changes 🟢 Deployment Frequency </small>
+
+---
+
+## \<Group\> Programming
+
+<div class="container">
+    <div class="col">
+        <q></q>
+    </div>
+    <div class="col">
+        <img src="/images/pairing.png" />
+    </div>
+</div>
+
+<small> 🟢 Lead Time For Changes </small>
+
+---
+
+## If I do this, I am done then?
+
+<img src="/images/laugh.jpg" class="r-stretch" />
+
+Hell no! This will always be a moving target. Practices evolve.
+
+
+---
+
+<img src="/images/questions.jpg" class="r-stretch" />
