@@ -24,7 +24,7 @@ theme: dracula
 
 ## Goal
 
-<img src="/images/full_speed.jpg" class="r-stretch"/>
+<img src="images/full_speed.jpg" class="r-stretch"/>
 
 <aside class="notes">
 - Spead & Quality
@@ -36,8 +36,8 @@ theme: dracula
 
 ## DORA
 
-<img src="/images/dora.jpg" height="350"/>
-<img src="/images/accelerate.jpg" height="350"/>
+<img src="images/dora.jpg" height="350"/>
+<img src="images/accelerate.jpg" height="350"/>
 
 <aside class="notes">
 - Deployment Frequency—How often an organization successfully releases to production
@@ -67,7 +67,7 @@ theme: dracula
 
 ## Mindset
 
-<img src="/images/positive_attitude.jpg" class="r-stretch" />
+<img src="images/positive_attitude.jpg" class="r-stretch" />
 
 ---
 
@@ -78,7 +78,7 @@ theme: dracula
         <q>Create a DevOps Culture, </br> Not a Dev vs Ops</q>
     </div>
     <div class="col">
-        <img src="/images/run_it.jpg" />
+        <img src="images/run_it.jpg" />
     </div>
 </div>
 
@@ -100,7 +100,7 @@ theme: dracula
         <q>Leave things better than they are now</q>
     </div>
     <div class="col">
-        <img src="/images/scout.jpeg" />
+        <img src="images/scout.jpeg" />
     </div>
 </div>
 
@@ -115,7 +115,7 @@ theme: dracula
 
 ## Run
 
-<img src="/images/no_alarms.png" width="700"/>
+<img src="images/no_alarms.png" width="700"/>
 
 ---
 
@@ -244,7 +244,7 @@ theme: dracula
         <q>Sham Environments</q>
     </div>
     <div class="col">
-        <img src="/images/environments.jpeg" />
+        <img src="images/environments.jpeg" />
     </div>
 </div>
 
@@ -267,7 +267,7 @@ theme: dracula
         <q>There is only 1 Reality <br/> Validate real things</q>
     </div>
     <div class="col">
-        <img src="/images/single_environment.jpeg" />
+        <img src="images/single_environment.jpeg" />
     </div>
 </div>
 
@@ -285,7 +285,7 @@ theme: dracula
 
 ## Transit
 
-<img src="/images/deploy_prod.jpg" class="r-stretch" />
+<img src="images/deploy_prod.jpg" class="r-stretch" />
 
 ---
 
@@ -296,7 +296,7 @@ theme: dracula
         <q>It's a Journey</q>
     </div>
     <div class="col">
-        <img src="/images/continuous.png" style="background-color:white;" />
+        <img src="images/continuous.png" style="background-color:white;" />
     </div>
 </div>
 
@@ -319,7 +319,7 @@ theme: dracula
         <q></q>
     </div>
     <div class="col">
-        <img src="/images/blue_green.jpeg" />
+        <img src="images/blue_green.jpeg" />
     </div>
 </div>
 
@@ -338,7 +338,7 @@ theme: dracula
         <q>Control where you release</q>
     </div>
     <div class="col">
-        <img src="/images/canary.jpeg" />
+        <img src="images/canary.jpeg" />
     </div>
 </div>
 
@@ -360,7 +360,7 @@ theme: dracula
         <q>Control how you release</q>
     </div>
     <div class="col">
-        <img src="/images/toggles.jpeg" />
+        <img src="images/toggles.jpeg" />
     </div>
 </div>
 
@@ -378,7 +378,7 @@ theme: dracula
 
 ## Creation
 
-<img src="/images/testing.jpg" class="r-stretch" />
+<img src="images/testing.jpg" class="r-stretch" />
 
 ---
 
@@ -389,7 +389,7 @@ theme: dracula
         <q>Single continuously evolving reality</q>
     </div>
     <div class="col">
-        <img src="/images/trunk.png" />
+        <img src="images/trunk.png" />
     </div>
 </div>
 
@@ -413,7 +413,7 @@ theme: dracula
         <q>Reproduce everything</q>
     </div>
     <div class="col">
-        <img src="/images/ascode.jpeg" />
+        <img src="images/ascode.jpeg" />
     </div>
 </div>
 
@@ -434,7 +434,7 @@ theme: dracula
         <q>Validate as soon as possible</q>
     </div>
     <div class="col">
-        <img src="/images/testing.jpeg" />
+        <img src="images/testing.jpeg" />
     </div>
 </div>
 
@@ -456,7 +456,7 @@ theme: dracula
         <q></q>
     </div>
     <div class="col">
-        <img src="/images/tdd.png" />
+        <img src="images/tdd.png" />
     </div>
 </div>
 
@@ -471,7 +471,7 @@ theme: dracula
         <q></q>
     </div>
     <div class="col">
-        <img src="/images/pairing.png" />
+        <img src="images/pairing.png" />
     </div>
 </div>
 
@@ -481,11 +481,11 @@ theme: dracula
 
 ## If I do this, I am done then?
 
-<img src="/images/laugh.jpg" class="r-stretch" />
+<img src="images/laugh.jpg" class="r-stretch" />
 
 Hell no! This will always be a moving target. Practices evolve.
 
 
 ---
 
-<img src="/images/questions.jpg" class="r-stretch" />
+<img src="images/questions.jpg" class="r-stretch" />
